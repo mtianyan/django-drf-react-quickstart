@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'leads', # 添加leads app
+    'rest_framework' # 加入 rest framework
 ]
 
 MIDDLEWARE = [
