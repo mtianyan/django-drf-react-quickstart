@@ -10,6 +10,8 @@ django = "*"
 djangorestframework = "*"
 mysqlclient = "*"
 coverage = "*"
+xadmin = {file = "https://codeload.github.com/sshwsfc/xadmin/zip/django2"}
+coreapi = "*"
 
 [requires]
 python_version = "3.7"

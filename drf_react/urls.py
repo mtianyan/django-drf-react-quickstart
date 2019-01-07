@@ -14,7 +14,11 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.urls import path, include
+import xadmin
+from rest_framework.documentation import include_docs_urls
 
 urlpatterns = [
     path('', include('leads.urls')),
+    path('xadmin/', xadmin.site.urls),
+    path('api/docs/', include_docs_urls(title='Lead 在线API文档')),
 ]

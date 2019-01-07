@@ -37,8 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'leads', # 添加leads app
-    'rest_framework' # 加入 rest framework
+    'leads',          # 添加leads app
+    'rest_framework', # 添加rest framework
+    'xadmin',         # 添加 xadmin
+    'crispy_forms',   # 添加 xadmin
 ]
 
 MIDDLEWARE = [
