@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3960562e88c44c82e54f79844d5038aaaef6ae214f60848288d7cf9c87b7c98e"
+            "sha256": "0b98b81ccf0598a4b8a8b28f1408dbaf78e02a55e9a2e8bc491c877e441707db"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,9 @@
         ]
     },
     "default": {
+        "9723e6f": {
+            "file": "https://codeload.github.com/sshwsfc/xadmin/zip/django2"
+        },
         "certifi": {
             "hashes": [
                 "sha256:47f9c83ef4c0c621eaef743f133f09fa8a74a9b75f037e8624f83bd1b6626cb7",
@@ -162,10 +165,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:31cb35c89bd7d333cd32c5f278fca91b523b0834369e757f4c5641ea252236ca",
-                "sha256:8e0f8568c118d3077b46be7d654cc8167fa916092e28320cde048e54bfc9f1e6"
+                "sha256:32b0891edff07e28efe91284ed9c31e123d84bea3fd98e1f72be2508f43ef8d9",
+                "sha256:d5f05e487007e29e03409f9398d074e158d920d36eb82eaf66fb1136b0c5374c"
             ],
-            "version": "==2018.7"
+            "version": "==2018.9"
         },
         "requests": {
             "hashes": [

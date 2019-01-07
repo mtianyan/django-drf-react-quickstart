@@ -12,6 +12,7 @@ mysqlclient = "*"
 coverage = "*"
 xadmin = {file = "https://codeload.github.com/sshwsfc/xadmin/zip/django2"}
 coreapi = "*"
+"9723e6f" = {file = "https://codeload.github.com/sshwsfc/xadmin/zip/django2"}
 
 [requires]
 python_version = "3.7"

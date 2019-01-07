@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework', # 添加rest framework
     'xadmin',         # 添加 xadmin
     'crispy_forms',   # 添加 xadmin
+    'frontend',       # 添加 frontend app
 ]
 
 MIDDLEWARE = [
