@@ -32,7 +32,7 @@
     "react-dom": "^16.7.0",
     "weak-key": "^1.0.1",
     "webpack": "^4.28.3",
-    "webpack-cli": "^3.2.1"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {}
 }
